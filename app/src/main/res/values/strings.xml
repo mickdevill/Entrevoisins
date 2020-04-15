@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Entrevoisins</string>
+    <string name="tab_neighbour_title">My neighbours</string>
+    <string name="tab_favorites_title">Favorites</string>
+    <string name="_666">666</string>
+    <string name="pizza_hut">+33 1 53 20 96 16</string>
+    <string name="somthing_gmail_com">somthing@gmail.com</string>
+    <string name="the_dedscription">Bonjour !Je souhaiterais faire de la marche nordique. Pas initiée, je recherche une ou plusieurs personnes susceptibles de m\'accompagner !J\'aime les jeux de cartes tels la belote et le tarot...</string>
+</resources>
